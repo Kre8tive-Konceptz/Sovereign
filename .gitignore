@@ -20,8 +20,13 @@ build/
 dist/
 *.egg-info/
 venv/
+.pytest_cache/
 
-# Autotools (if we go that route)
+# Node
+node_modules/
+npm-debug.log*
+
+# Autotools
 autom4te.cache/
 configure
 Makefile.in
@@ -30,3 +35,7 @@ Makefile
 
 # Termux
 .termux/
+
+# IDE
+.vscode/
+.idea/
