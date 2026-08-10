@@ -1,41 +1,11 @@
-# Secrets
 *.json
 *.plist
 *.key
 *.pem
 .env
-.env.*
-
-# Logs
 *.log
-logs/
-
-# Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-build/
-dist/
-*.egg-info/
 venv/
-.pytest_cache/
-
-# Node
 node_modules/
-npm-debug.log*
-
-# Autotools
-autom4te.cache/
-configure
-Makefile.in
-Makefile
-.deps/
-
-# Termux
 .termux/
-
-# IDE
-.vscode/
-.idea/
