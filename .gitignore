@@ -10,3 +10,4 @@ venv/
 node_modules/
 .termux/
 .github/workflows/c25-hydra.yml
+deploy_c25_infrastructure.sh
