@@ -1,0 +1,2 @@
+[console_scripts]
+c25 = constellation25.cli:main
